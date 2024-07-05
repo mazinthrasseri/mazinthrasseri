@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🌱 I’m currently learning **React, React Native**
+- 🌱 I’m currently learning **React, Spline 3D**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mazinthrasseri](https://github.com/mazinthrasseri)
 
