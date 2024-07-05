@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mazint@zoho.com**
 
-- 📄 Know about my experiences [mazint.in](mazint.in)
+- 📄 Know about my experiences & Portfolio [mazint.in](mazint.in)
 
 
 <h3 align="left">Connect with me:</h3>
