@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mazinthrasseri](https://github.com/mazinthrasseri)
 
-- 📝 I regularly write articles on [mazint.in](mazint.in)
-
 - 💬 Ask me about **html, css, javascript**
 
 - 📫 How to reach me **mazint@zoho.com**
