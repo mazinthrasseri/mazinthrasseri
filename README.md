@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **React, Spline 3D**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mazinthrasseri](https://github.com/mazinthrasseri)
-
 - 💬 Ask me about ** Figma, Adobe XD, html, css, javascript**
 
 - 📫 How to reach me **mazint@zoho.com**
