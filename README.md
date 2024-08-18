@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React, Spline 3D**
 
-- 💬 Ask me about ** Figma, Adobe XD, html, css, javascript**
+- 💬 Skills: ** Figma, Adobe XD, html, css, javascript**
 
 - 📫 How to reach me **mazint@zoho.com**
 
